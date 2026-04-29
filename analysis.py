@@ -7,3 +7,4 @@ def func():
     return x+y
 
 print(unknown_variable)
+print("trigger")
