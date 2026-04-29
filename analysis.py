@@ -1,6 +1,10 @@
-x = 10
-y = 20
+import os
+import sys
 
-unused = 5
+def func():
+    x = 10
+    y = 20
+    unused = 5
+    return x+y
 
-print(x + y)
+func()
